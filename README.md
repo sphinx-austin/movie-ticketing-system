@@ -3,7 +3,7 @@ Movie ticketing web service with payment
 
 # To Start
 
-## Setup
+### Setup
 
 The first thing to do is to clone the repository:
 
