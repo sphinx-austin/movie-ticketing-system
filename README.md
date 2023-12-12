@@ -30,25 +30,6 @@ Then install the dependencies:
 Note the `(venv)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
 
-Create the node modules for tailwind and Flowbite
-
-```sh
-
-$ npm install tailwindcss
-```
-
-Run the following command to watch for changes and compile the Tailwind CSS code:
-```sh
-
-npx tailwindcss -i ./static/src/input.css -o ./static/src/output.css --watch
-```
-
-Install Flowbite
-```sh
-npm install flowbite
-```
-
-
 Run the server:
 
 ```
