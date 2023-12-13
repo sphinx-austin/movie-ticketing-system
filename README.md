@@ -1,5 +1,5 @@
 # Movie ticketing system
-Movie ticketing web service with payment
+Movie ticketing web service with payment inetgration
 
 # To Start
 
